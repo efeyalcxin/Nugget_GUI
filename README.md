@@ -32,5 +32,5 @@ You need to get the mobilegestalt file that is specific to your device. To do th
 - **[leminlimez](https://x.com/LeminLimez) for creating this project**
 - [JJTech](https://github.com/JJTech0130) for Sparserestore/[TrollRestore](https://github.com/JJTech0130/TrollRestore)
 - [pymobiledevice3](https://github.com/doronz88/pymobiledevice3)
-- And for me for making the GUI :D
+- @efeyalcxin for first gui version
 
